@@ -1,0 +1,5 @@
+v1.1.1
+- Added option to batch-add movies and/or tvshows to library:
+  Movies: add a file called "movies_to_add.txt" to Metallic's addon-data folder. Can be comma seperated values or each id on new line or combination of the
+  two. Takes IMDb-id or TMDb-id or combination of those two.
+  TVShows: add a file called "tvshows_to_add.txt" to Metallic's addon-data folder. Can be comma seperated values or each id on new line or combination of those two. Takes IMDb-id or TVDb-id or combination of those two.
